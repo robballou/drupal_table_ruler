@@ -1,0 +1,5 @@
+name =  Table Ruler
+description = Admin table UI helpers
+core = 7.x
+scripts[] = js/ruler.js
+stylesheets[all][] = css/ruler.css
