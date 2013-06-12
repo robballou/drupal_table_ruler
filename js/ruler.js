@@ -9,5 +9,4 @@
       $(this).toggleClass('has-table-ruler-highlight');
     });
   });
-
 })(jQuery);
