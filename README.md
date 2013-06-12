@@ -1,0 +1,1 @@
+Simple admin-only table ruler for Drupal

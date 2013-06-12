@@ -1,2 +1,4 @@
+/* row ruler */
 table.has-table-ruler tbody tr:hover { outline:1px solid #aaa; }
-table.has-table-ruler .has-table-ruler-highlight td { background-color: #ccc !important; }
+/* row "selector" */
+table.has-table-ruler .has-table-ruler-highlight td { background-color: #ccc; }
