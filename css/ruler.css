@@ -1,2 +1,2 @@
-body.page-admin table.has-table-ruler tbody tr:hover {outline:1px solid #aaa;}
-body.page-admin .has-table-ruler-highlight td { background-color: #ccc !important; }
+table.has-table-ruler tbody tr:hover { outline:1px solid #aaa; }
+table.has-table-ruler .has-table-ruler-highlight td { background-color: #ccc !important; }
